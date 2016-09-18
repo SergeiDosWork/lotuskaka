@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lotuskaka:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lotuskaka_jar</output-path>
+    <root id="archive" name="lotuskaka.jar">
+      <element id="module-output" name="lotuskaka" />
+    </root>
+  </artifact>
+</component>
